@@ -34,7 +34,7 @@
       "name": "PaperLite",
       "description": "A Minimal Writing App",
       "repository": "mirazkbr/PaperLite",
-      "icon": "/icons/paper-lite.ico",
+      "icon": "/icons/paper-lite.svg",
       "releaseApi": "https://api.github.com/repos/mirazkbr/PaperLite/releases/latest",
       "installerAssets": [".exe", ".msi"]
     }
