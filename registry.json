@@ -16,7 +16,7 @@
       "name": "memoir",
       "description": "A Minimal Note Editor",
       "repository": "mirazkbr/memoir",
-      "icon": "/icons/memoir.png",
+      "icon": "/icons/memoir.svg",
       "releaseApi": "https://api.github.com/repos/mirazkbr/memoir/releases/latest",
       "installerAssets": [".exe", ".msi"]
     },
@@ -34,7 +34,7 @@
       "name": "PaperLite",
       "description": "A Minimal Writing App",
       "repository": "mirazkbr/PaperLite",
-      "icon": "/icons/paperlite.svg",
+      "icon": "/icons/paper-lite.ico",
       "releaseApi": "https://api.github.com/repos/mirazkbr/PaperLite/releases/latest",
       "installerAssets": [".exe", ".msi"]
     }
