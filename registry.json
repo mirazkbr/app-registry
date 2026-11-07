@@ -1,0 +1,42 @@
+
+{
+  "schemaVersion": 1,
+  "apps": [
+    {
+      "id": "apiro",
+      "name": "api api",
+      "description": "A API Client",
+      "repository": "mirazkbr/apiro-api",
+      "icon": "/icons/apiro.svg",
+      "releaseApi": "https://api.github.com/repos/mirazkbr/apiro-api/releases/latest",
+      "installerAssets": [".exe", ".msi"]
+    },
+    {
+      "id": "memoir",
+      "name": "memoir",
+      "description": "A Minimal Note Editor",
+      "repository": "mirazkbr/memoir",
+      "icon": "/icons/memoir.png",
+      "releaseApi": "https://api.github.com/repos/mirazkbr/memoir/releases/latest",
+      "installerAssets": [".exe", ".msi"]
+    },
+    {
+      "id": "clipo",
+      "name": "Clipo",
+      "description": "A Clipboard Manager",
+      "repository": "mirazkbr/Clipo--clipboard-manager",
+      "icon": "/icons/clipo.svg",
+      "releaseApi": "https://api.github.com/repos/mirazkbr/Clipo--clipboard-manager/releases/latest",
+      "installerAssets": [".exe", ".msi"]
+    },
+    {
+      "id": "paperlite",
+      "name": "PaperLite",
+      "description": "A Minimal Writing App",
+      "repository": "mirazkbr/PaperLite",
+      "icon": "/icons/paperlite.svg",
+      "releaseApi": "https://api.github.com/repos/mirazkbr/PaperLite/releases/latest",
+      "installerAssets": [".exe", ".msi"]
+    }
+  ]
+}
